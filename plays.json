@@ -1,0 +1,11 @@
+{
+    "hamlet":{
+        "name":"hamlet","type":"tragedy"
+    },
+    "gold":{
+        "name":"gold","type":"comedy"
+    },
+    "hello":{
+        "name":"hello","type":"tragedy"
+    }
+}
